@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schooladvisor26
 - 👀 I’m interested in note-taking apps.
-- 🌱 I’m currently learning website creation.
+- 🌱 I’m currently learning whatever I'm curious about (that might include Python and also Linux).
 - 💞️ I’m looking to collaborate on TBD...
 - 📫 How to reach me (That can wait).
 
